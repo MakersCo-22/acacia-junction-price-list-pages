@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[7121,[],""]
 3:I[4581,[],""]
-:HL["/acacia-junction-price-list-pages/_next/static/css/b4362bb1026d3624.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/acacia-junction-price-list-pages/_next/static/css/b4362bb1026d3624.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_2f76e3 __variable_0b43ae","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Py9mMRP9-tIQ59eQcHNGy"}
+:HL["/acacia-junction-price-list-pages/_next/static/css/da93ed4b24cce185.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/acacia-junction-price-list-pages/_next/static/css/da93ed4b24cce185.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_2f76e3 __variable_0b43ae","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"--RMqX85io6N1D0PjWlmr"}
