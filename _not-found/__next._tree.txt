@@ -1,0 +1,4 @@
+:HL["/acacia-junction-price-list-pages/_next/static/media/1daed7f604b0cc20-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/acacia-junction-price-list-pages/_next/static/media/cc27cf3ff100ea21-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/acacia-junction-price-list-pages/_next/static/css/ebe0116ce198d80f.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"673rYZaTFyUBZpS6CyMBP"}
