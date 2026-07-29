@@ -1,4 +1,4 @@
 :HL["/acacia-junction-price-list-pages/_next/static/media/1daed7f604b0cc20-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/acacia-junction-price-list-pages/_next/static/media/cc27cf3ff100ea21-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/acacia-junction-price-list-pages/_next/static/css/da93ed4b24cce185.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"embed","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"--RMqX85io6N1D0PjWlmr"}
+:HL["/acacia-junction-price-list-pages/_next/static/css/b4362bb1026d3624.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"embed","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"IMi2tldQRfXJmWMHcX3ML"}
